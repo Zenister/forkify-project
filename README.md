@@ -5,4 +5,4 @@
 - Added max pages on the navigation button.
 - There's an issue with loading the icons.svg file.
 
-[Live Demo](https://forkify-zenister.netlify.app/)
+> [Live Demo](https://forkify-zenister.netlify.app/)
