@@ -1,5 +1,5 @@
 import View from './View.js';
-import icons from 'url:../../img/icons.svg';
+import icons from '../../img/icons.svg?url';
 import { MODAL_CLOSE_SEC } from '../config.js';
 
 class addRecipeView extends View {
@@ -134,7 +134,7 @@ class addRecipeView extends View {
 
         <button class="btn upload__btn">
           <svg>
-            <use href="${icons}#icon-upload-cloud"></use>
+            <use href="src/img/icons.svg#icon-upload-cloud"></use>
           </svg>
           <span>Upload</span>
         </button>
