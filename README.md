@@ -6,3 +6,5 @@
 - There's an issue with loading the icons.svg file.
 
 > [Live Demo](https://forkify-zenister.netlify.app/)
+>
+> Finished Jonas Schmedtmann Javascript Course - 03/27/25
